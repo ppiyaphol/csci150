@@ -2,7 +2,7 @@
 # DO NOI delete / replace name of other students
 Piyaphol Phoungphol
 Mitchell Tyner
-Jonathan Hilton
+Jonathan Hilton  Done in SmartGit
 Benjamin Lipscomb
 John Cena
 Kasey Coluccio

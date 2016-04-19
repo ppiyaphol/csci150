@@ -2,7 +2,7 @@
 # DO NOI delete / replace name of other students
 pphoungp@uscb.edu
 tynerm@email.uscb.edu
-jbhilton@email.uscb.edu
+jbhilton@email.uscb.edu  done in SmartGit
 lipscobm@email.sc.edu
 jcena@email.wwe.edu
 coluccio@email.uscb.edu
